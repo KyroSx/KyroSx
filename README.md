@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 📔 Computer Science student;
+- 📐 adept to TDD, SOLID, CLEAN ARCHITECTURE;
+- 🐧 love Linux;
+- 🧛🏻 dracula theme;
+- 📝 fav techs:
+  - 🟦 typescript
+  - 💎 ruby 
+
 <!--
 **KyroSx/KyroSx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
