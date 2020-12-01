@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 📔 Computer Science student;
-- 📐 adept to TDD, SOLID, CLEAN ARCHITECTURE;
 - 🐧 love Linux;
 - 🧛🏻 dracula theme;
 - 📝 fav techs:
